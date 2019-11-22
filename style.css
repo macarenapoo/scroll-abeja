@@ -1,0 +1,28 @@
+.header,
+.footer {
+  height: 800px;
+  background-color: #ededed;
+}
+.container {
+  position: relative;
+  padding: 40px;
+}
+
+.abeja {
+  width: 40px;
+  height: 40px;
+  background-color: #f5ce42;
+  position: absolute;
+  border-radius: 50%;
+  left: calc(50% - 20px);
+
+}
+
+.linea {
+  margin: 0 auto;
+  width: 4px;
+  height: 1200px;
+  background-color: #ededed;
+  border-radius: 2px;
+}
+
